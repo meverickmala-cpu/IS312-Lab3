@@ -1,1 +1,31 @@
+/* Custom Style 1: Page Layout */
+.page-layout {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
+
+/* Custom Style 2: Jumbotron */
+.jumbotron.text-center {
+  background-color: #003366;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  border-radius: 8px;
+}
+
+/* Custom Style 3: Button Styling */
+.custom-button {
+  background-color: green;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.custom-button:hover {
+  background-color: darkgreen;
+}
 
